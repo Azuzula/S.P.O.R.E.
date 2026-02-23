@@ -1,0 +1,55 @@
+Patch notes
+v0.4.0
+02. 09. 2025
+vylepšení u Názvu vlákna i komentářů
+sbalování vláken
+při načtení nového komentáře se vlákno rozbalí
+počítadlo komentářů
+vylepšení při fullscreen
+vylepšení editoru komentářů
+přepracovaný cache a načítání komentářů
+odkazy v komentáři se otevírají v novém okně místo ve stejném
+drobné úpravy layoutu a velké změny v logice kódu
+
+v0.3.5.1
+29. 08. 2025
+Oprava emoji pickeru v editoru komentáře.
+
+v0.3.5
+22. 08. 2025
+Nová animace při otevírání a zavírání panelu
+Nové chování při fullscreen
+Indikace odesílání vlákna/komentáře
+Sjednocení stylů: panel si nebere styly z webu a neovlivňuje web
+Dynamické zobrazování času vlákna/komentáře
+Autor a čas u vlákna
+Odlišení vláken barvou sudá/lichá
+Odebrání prázdných odstavců na konci komentáře
+Emoji picker do komentáře
+
+v0.3.4
+19. 08. 2025
+Omezení nadpisu vlákna na 64 znaků
+Přidaná podpora pro vkládání obrázků do komentářů
+Zalamování textu, aby nepřetékal
+Opravené odhlášení a zlepšení otevírání panelu
+
+v0.3.3
+15. 08. 2025
+Přidán lepší debug do konzole a pár drobných oprav.
+
+v0.3.2
+13. 08. 2025
+Oprava bugů. První schválená verze pro Obchod Chrome. Začátek neveřejného testování.
+
+v0.3.1
+02. 08. 2025
+Oprava bugů, hlavně problémy s loginem a ukládáním dat.
+
+v0.3
+28. 07. 2025
+První verze jako doplněk do prohlížeče. Přidáno přihlašování a práce s Google Drive.
+
+v0.1-v0.2
+01. 07. 2025
+První verze napsaná pro Tampermonkey, hodně jednoduchá a ještě bez stylů, ale funkční s ukládáním do localstorage.
