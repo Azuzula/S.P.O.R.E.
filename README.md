@@ -1,5 +1,5 @@
 # S.P.O.R.E.
-### Social Parasitic Overlay for the Real Web
+### Shared Posts Over Remote Ecosystems
 
 SPORE adds a social layer on top of existing websites.
 
