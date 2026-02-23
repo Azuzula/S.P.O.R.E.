@@ -1,5 +1,5 @@
 # S.P.O.R.E.
-### Social Parasitic Overlay for the Real Web
+### Síť Příspěvků v Online Rozptýlených Ekosystémech
 
 SPORE přidává sociální vrstvu nad existující webové stránky.
 
