@@ -9,9 +9,10 @@ You don't need to be a senior developer to contribute.
 ---
 
 ## 🧭 Ways to contribute
+Look at the home page https://spore.wtf Sorry for Czech language at the web and first comments in the app. They was first try.
 
 ### 🧪 Try it and break it
-- install the extension
+- install the extension from Chrome store here https://chromewebstore.google.com/detail/spore/nlfagecchkidjfdkijdgpfmieljbnofc
 - test weird scenarios
 - report bugs or unexpected behavior
 
